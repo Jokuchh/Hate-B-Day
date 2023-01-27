@@ -15,7 +15,7 @@ html, body {
 
 body {
   align-items: center;
-  background: rgba(0,0,0,0.0);
+  background: rgba(0,0,0,0.5);
   display: flex;
   font-family: -apple-system, 
     BlinkMacSystemFont, 
