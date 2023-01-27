@@ -24,7 +24,7 @@ html, body {
 
 body {
   align-items: center;
-  background: linear-gradient(45deg, #1870ed 0, #f18f88 100%);
+  background-color: red; background-color: rgba(255, 0, 0, 0.5); 
   display: flex;
   font-family: -apple-system, 
     BlinkMacSystemFont, 
